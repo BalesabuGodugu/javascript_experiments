@@ -1,0 +1,52 @@
+
+.js  ----> interpretation --->
+
+ES05 
+ECMA SCRIPT 05 
+ECMA -
+
+--->
+ES06
+ES2017           ----> transpiler<babelloader> ---->  es05 
+ES2018..etc .
+
+
+framework: angular.js 2/4/5/6/7
+
+libraries: React.js 
+
+
+
+
+two types of comments .
+
+Readability -- comments 
+
+
+single line comment 
+
+multi line comment 
+
+
+number 
+string 
+boolean 
+undefined
+null 
+array 
+function 
+object 
+symbol ..etc 
+
+
+
+= assignment operator 
+
+== compare only the value .
+
+=== compare value and data type 
+
+
+
+
+
